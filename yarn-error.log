@@ -1,0 +1,45 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add node-sass
+
+PATH: 
+  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\HP\bin;C:\Users\HP\AppData\Local\Programs\Python\Python38\Scripts;C:\Users\HP\AppData\Local\Programs\Python\Python38;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\Program Files\Git\cmd;C;C:\Program Files\Git\Python27;C:\Users\HP\;C;C:\Program Files\Git\Python27;C:\WINDOWS\System32\OpenSSH;C:\composer;C:\Program Files\PostgreSQL\12.3\bin;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\Users\HP\AppData\Local\atom\bin;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;C:\xampp\php;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\WebStorm 2019.3.4\bin;C:\Users\HP\AppData\Roaming\Composer\vendor\bin;C:\Program Files\PostgreSQL\9.5\bin;C:\Program Files\heroku\bin;C:\Users\HP\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.1.2\bin;C:\Users\HP\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  12.18.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:66:26)
+
+npm manifest: 
+  {
+    "name": "natour",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/menawar/natour.git"
+    },
+    "author": "Sylvester Menawar",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/menawar/natour/issues"
+    },
+    "homepage": "https://github.com/menawar/natour#readme"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

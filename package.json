@@ -1,0 +1,22 @@
+{
+  "name": "natour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menawar/natour.git"
+  },
+  "author": "Sylvester Menawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menawar/natour/issues"
+  },
+  "homepage": "https://github.com/menawar/natour#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
